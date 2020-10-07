@@ -1,1 +1,1 @@
-*** This is the mobile app ***
+*** Android application built with React Native, Python, GCP/firebase ***
